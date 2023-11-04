@@ -1,8 +1,8 @@
-# ExpressGUI
-## A python3 gui app for expressvpn Linux 
-
 # THIS PROJECT IS NO LONGER MAINTAINED USE THE [V2](https://github.com/HttpAnimation/ExpressGUIV2).
 
+# ExpressGUI
+
+## A python3 gui app for expressvpn Linux 
 
 # How to run
 First, run sudo apt install python3 in your terminal to make sure you have python3 installed
